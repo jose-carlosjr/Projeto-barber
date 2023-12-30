@@ -316,6 +316,7 @@ i {
 @media screen and (max-width: 768px) {
   .btn-whatsapp .tooltip-text {
     font-size: 13px;
+    left: -134px;
   }
 }
 .btn-whatsapp:hover .tooltip-text {
